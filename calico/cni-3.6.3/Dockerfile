@@ -1,1 +1,1 @@
-FROM  quay.io/calico/cni:v3.1.6
+FROM  k8s.gcr.io/kube-scheduler:v1.14.1
